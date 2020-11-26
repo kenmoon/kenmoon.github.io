@@ -1,31 +1,65 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am an Assistant Professor and Claude Marion Endowed Faculty Scholar in the [Operations, Information and Decisions Department](https://oid.wharton.upenn.edu) at the [Wharton School, University of Pennsylvania](https://wharton.upenn.edu).
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My research focuses on how technology and data are re-shaping the organization and management of workers, service platforms, and supply chains---all of which call for actively managing decentralized incentives and information.  I use data to study the principled design of such incentives and information flows.
 
-A data-driven personal website
+I am always open to new collaborations with academics and data partners.  Current endeavors, which I am happy to talk about, include partnerships to enhance worker productivity and welfare within complex operations by collecting and leveraging better big data.  Examples include (1) using biosensors to track and manage stress and rapid burnout among hospital intensive care providers, (2) ongoing initiatives with the Apple Worker Exit Study to understand disruptive worker turnover in the supply chain, and (3) using blockchain technology to tailor incentives to improve the welfare of first-mile producers in global, agricultural supply chains.  I also study and collaborate extensively with online platforms managing flexible work arrangements.
+
+I completed my Ph.D. at the [Stanford Graduate School of Business](https://gsb.stanford.edu) and also hold a J.D. from the [Harvard Law School](https://www.law.harvard.edu) and undergraduate degrees from [Stanford University](https://www.stanford.edu).
+
+Research papers
 ======
+<!---
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+--->
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. **Manufacturing Productivity with Worker Turnover** [(Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3248075) <br/> 2nd major revision at *Management Science*
+<br/>1st place, 2020 POMS Operational Excellence College Best Paper Award
+<br/>With: Apple Worker Exit Study
+<br/>[Short presentation video (17min.)](https://vimeo.com/483399116) from the 2020 INFORMS Annual Meeting (held virtually)
 
-Site-wide configuration
+1. **When to Be Agile: Ratings and Version Updates in Mobile Apps** [(Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3476286) <br/> 2nd major revision at *Management Science*
+<br/>1st place, 2020 POMS Product Innovation and Technology Best Student Paper (A. Singh)
+<br/>With: G. Allon, G. Askalidis, R. Berry, N. Immorlica, A. Singh
+
+1. **Matching in Labor Marketplaces: The Role of Experiential Information** [(Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3543906)
+<br/>Finalist, 2019 INFORMS MSOM Best Student Paper (J. Zhang)
+<br/>Finalist, 2019 INFORMS Revenue Management and Pricing Best Student Paper (J. Zhang)
+<br/>Finalist, 2019 IBM Service Science Best Student Paper (J. Zhang)
+<br/>With: E. Belavina, K. Girotra, J. Zhang
+<br/>[Short presentation video (17min.)](https://vimeo.com/483401680) from the 2020 INFORMS Annual Meeting (held virtually)
+
+1. **The Hidden Cost of Worker Turnover: Attributing Product Reliability to the Turnover of Factory Workers** [(Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3568792)
+<br/>With: Apple Worker Exit Study
+<br/>[Short presentation video (17min.)](https://vimeo.com/483399116) from the 2020 INFORMS Annual Meeting (held virtually)
+
+1. **Responsible Sourcing: The First Step is the Hardest** [(Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3656497)
+<br/>1st place, People's Choice Award at the 2020 Early-career Sustainable OM Workshop
+<br/>With: P. Ramchandani, H. Bastani
+
+1. **Managing Market Thickness in Online Business-to-Business Markets** [(Link)](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3497) <br/> Forthcoming at *Management Science*
+<br/>1st place, 2017 Service Science Best Student Paper (W. Zhang)
+<br/>Finalist, 2018 POMS Supply Chain Management Best Student Paper (W. Zhang)
+<br/>With: K. Bimpikis, W. Elmaghraby, W. Zhang
+
+1. **Randomized Markdowns and Online Monitoring** [(Link)](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2661) <br/> *Management Science* (2018), 64(3): 1271-1290.
+<br/>With: K. Bimpikis, H. Mendelson
+
+1. **Modeling Success and Engagement for the App Economy** [(Link)](https://dl.acm.org/doi/10.1145/3178876.3186123) <br/> *Proceedings of ACM The Web Conference (WWW'18)* (2018), Research track: Social Network Analysis and Graph Algorithms for the Web.
+<br/>With: H. Mendelson
+
+<!---
+Current projects
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
@@ -48,3 +82,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+--->
