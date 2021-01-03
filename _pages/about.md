@@ -47,7 +47,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 <br/>1st place, People's Choice Award at the 2020 Early-career Sustainable OM Workshop
 <br/>With: P. Ramchandani, H. Bastani
 
-1. **Managing Market Thickness in Online Business-to-Business Markets** [(Link)](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3497) <br/> Forthcoming at *Management Science*
+1. **Managing Market Thickness in Online Business-to-Business Markets** [(Link)](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3497) <br/> *Management Science* (2020), 66(12): 5485-6064.
 <br/>1st place, 2017 Service Science Best Student Paper (W. Zhang)
 <br/>Finalist, 2018 POMS Supply Chain Management Best Student Paper (W. Zhang)
 <br/>With: K. Bimpikis, W. Elmaghraby, W. Zhang
