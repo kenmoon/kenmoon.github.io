@@ -39,7 +39,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 <br/>With: E. Belavina, K. Girotra, J. Zhang
 <br/>[Short presentation video (17min.)](https://vimeo.com/483401680) from the 2020 INFORMS Annual Meeting (held virtually)
 
-1. **The Hidden Cost of Worker Turnover: Attributing Product Reliability to the Turnover of Factory Workers** [(Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3568792)
+1. **When Work Becomes Traceable in the Supply Chain: Connecting Product Reliability to the Turnover of Factory Workers** [(Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3568792)
 <br/>With: Apple Worker Exit Study
 <br/>[Short presentation video (17min.)](https://vimeo.com/483399116) from the 2020 INFORMS Annual Meeting (held virtually)
 
