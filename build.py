@@ -28,7 +28,7 @@ PAGE = """<!DOCTYPE html>
     <nav>
       <a href="index.html">Home</a>
       <a href="publications.html" class="active">Publications &amp; Papers</a>
-      <!-- CV link pending Ken's reviewed PDF: <a href="assets/CV_KenMoon.pdf">CV</a> -->
+      <a href="assets/CV_KenMoon.pdf">CV</a>
     </nav>
   </div>
 </header>
