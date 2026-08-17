@@ -4,7 +4,9 @@
   --ink: #1c1c1e;
   --muted: #556069;
   --accent: #b31b1b;        /* Cornell carnelian */
+  --name: #1b4f82;          /* deep academic navy */
   --rule: #d9e2ea;
+  --rule-strong: #4177a6;   /* header divider */
   --bg: #f2f7fb;
   --maxw: 46rem;
 }
@@ -31,7 +33,7 @@ a:hover { text-decoration: underline; }
 
 /* Header */
 header {
-  border-bottom: 1px solid var(--rule);
+  border-bottom: 2px solid var(--rule-strong);
   padding: 2.5rem 0 1.5rem;
 }
 
@@ -56,7 +58,7 @@ header h1 {
   letter-spacing: 0.01em;
 }
 
-header h1 a { color: var(--ink); }
+header h1 a { color: var(--name); }
 header h1 a:hover { text-decoration: none; }
 
 .tagline {
