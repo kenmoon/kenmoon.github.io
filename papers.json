@@ -78,25 +78,16 @@
           "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411974"
         },
         {
-          "title": "Managing Multihoming Workers in the Gig Economy",
-          "authors": "G. Allon, M. Cohen, K. Moon, W. Sinchaisri",
-          "status": "Major revision at Operations Research",
-          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4502968"
-        },
-        {
-          "title": "Matching in Labor Marketplaces With Experiential Learning",
-          "authors": "K. Moon, J. Zhang, E. Belavina, K. Girotra",
-          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3543906"
-        },
-        {
           "title": "An Empirical Study of Blockchain-driven Supply Chain Transparency in Consumer Marketplaces",
           "authors": "J. Jiang, W. Elmaghraby, K. Moon",
-          "status": "Under review at Manufacturing & Service Operations Management",
+          "status": "Major revision at Manufacturing & Service Operations Management",
           "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560414"
         },
         {
-          "title": "Designing Transparency: Blockchain Tracing Adoption in an Online Marketplace",
-          "authors": "J. Jiang, W. Elmaghraby, K. Moon"
+          "title": "Managing Multihoming Workers in the Gig Economy",
+          "authors": "G. Allon, M. Cohen, K. Moon, W. Sinchaisri",
+          "status": "Reject and resubmit at Operations Research",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4502968"
         },
         {
           "title": "Algorithmic Screening and Access in the Gig Economy",
@@ -104,7 +95,25 @@
         },
         {
           "title": "Can AI Replace Human Judgment in Marketplace Operations? Evidence from Keyword Auction Campaigns",
-          "authors": "W. Zhang, K. Moon, R. Dhonukshe"
+          "authors": "W. Zhang, K. Moon, R. Dhonukshe, B. Li, K. Tu, H. Wu, J. Zhao",
+          "status": "Under review at Management Science"
+        },
+        {
+          "title": "The Queue Is in the Eye of the Beholder: An Empirical Study of Join-or-Balk Decisions",
+          "authors": "E. Bergamo, G. Allon, K. Moon"
+        },
+        {
+          "title": "Designing Transparency: The Market Design of Blockchain Tracing Adoption",
+          "authors": "J. Jiang, W. Elmaghraby, K. Moon"
+        },
+        {
+          "title": "When Workloads Are Emotional Labor: An Empirical Study of Livestreaming Productivity",
+          "authors": "F. Song, S. Jiang, K. Moon, W. Zhang"
+        },
+        {
+          "title": "Matching in Labor Marketplaces With Experiential Learning",
+          "authors": "K. Moon, J. Zhang, E. Belavina, K. Girotra",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3543906"
         },
         {
           "title": "The First Step Is the Hardest: Learning, Incentives, and the Design of Responsible Sourcing",
@@ -118,20 +127,16 @@
         {
           "title": "Dynamic Inspection Scheduling With Strategic Nursing Homes",
           "authors": "J. Lim, K. Moon, N. Sharma"
-        },
-        {
-          "title": "Queues with Cues: How Visual Congestion Drives Join-or-Balk Decisions",
-          "authors": "E. Bergamo, G. Allon, K. Moon"
-        },
-        {
-          "title": "When Workloads Are Emotional Labor: An Empirical Study of Livestreaming Productivity",
-          "authors": "F. Song, W. Zhang, S. Jiang, K. Moon"
         }
       ]
     },
     {
       "title": "Research in Progress",
       "papers": [
+        {
+          "title": "Learning to Coordinate Operations for Social Good: Estimating and Intervening in Network Games",
+          "authors": "K. Moon"
+        },
         {
           "title": "Meta-learning With Diffusion-based Inference: Dynamic Staffing to Reduce Hospital Worker Stress Using Real-time Biometrics",
           "authors": "K. Moon, K. Laudanski"
