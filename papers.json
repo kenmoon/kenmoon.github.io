@@ -81,11 +81,6 @@
           "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4502968"
         },
         {
-          "title": "Algorithmic Screening and Access in the Gig Economy",
-          "authors": "K. Moon",
-          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6493743"
-        },
-        {
           "title": "Can AI Replace Human Judgment in Marketplace Operations? Evidence from Keyword Auction Campaigns",
           "authors": "W. Zhang, K. Moon, R. Dhonukshe, B. Li, K. Tu, H. Wu, J. Zhao",
           "status": "Under review at Management Science",
@@ -94,6 +89,7 @@
         {
           "title": "The Queue Is in the Eye of the Beholder: An Empirical Study of Join-or-Balk Decisions",
           "authors": "E. Bergamo, G. Allon, K. Moon",
+          "status": "Under review at Management Science",
           "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7039040"
         },
         {
@@ -104,6 +100,11 @@
           "title": "When Workloads Are Emotional Labor: An Empirical Study of Livestreaming Productivity",
           "authors": "F. Song, S. Jiang, K. Moon, W. Zhang",
           "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5198270"
+        },
+        {
+          "title": "Algorithmic Screening and Access in the Gig Economy",
+          "authors": "K. Moon",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6493743"
         },
         {
           "title": "Matching in Labor Marketplaces With Experiential Learning",
