@@ -27,12 +27,11 @@ No build system, no dependencies: hand-written HTML/CSS plus one generator scrip
   link in the `<nav>` of BOTH `index.html` and the `PAGE` template in `build.py`,
   then rebuild.
 - **Photo**: optional; drop into `assets/` and add to `index.html` header.
-- **DNS cutover** (when Ken approves the preview):
-  1. Add a `CNAME` file containing `www.kenmoon.net` (do NOT add before cutover —
-     it breaks the github.io preview URL).
-  2. In the domain's DNS (currently managed at Wix): point `www` CNAME to
-     `kenmoon.github.io`, and apex A records to GitHub Pages IPs
-     (185.199.108.153 / .109. / .110. / .111.).
-  3. In repo Settings → Pages: set custom domain `www.kenmoon.net`, enable
-     Enforce HTTPS once the certificate provisions.
-  4. Verify, then cancel the Wix site subscription (keep the domain registration).
+- **kenmoon.net handling** (decided 2026-08-17): kenmoon.github.io is the CANONICAL
+  address. kenmoon.net exists only so old documents/links still resolve — it is
+  FORWARDED (HTTP redirect at Wix) to https://kenmoon.github.io/. Deliberately NOT
+  set up as a GitHub Pages custom domain (that would make github.io redirect to
+  kenmoon.net, inverting canonicality and breaking github.io bookmarks if the
+  domain ever lapses). No `CNAME` file in this repo — do not add one. The Wix
+  site subscription can be canceled once forwarding is in place; the domain
+  registration can be renewed or allowed to lapse with no effect on this site.
