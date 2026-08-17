@@ -2,10 +2,10 @@
 
 :root {
   --ink: #1c1c1e;
-  --muted: #5a5a5f;
+  --muted: #556069;
   --accent: #b31b1b;        /* Cornell carnelian */
-  --rule: #e3e0db;
-  --bg: #fdfcfa;
+  --rule: #d9e2ea;
+  --bg: #f2f7fb;
   --maxw: 46rem;
 }
 
