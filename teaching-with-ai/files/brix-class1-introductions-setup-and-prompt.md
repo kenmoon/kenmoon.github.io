@@ -1,6 +1,6 @@
 # Setting up an AI course assistant as a Google Gem
 
-*Shared by Ken Moon, Cornell SC Johnson College of Business, September 2026. Companion to kenmoon.net/teaching-with-ai.*
+*Shared by Ken Moon, Cornell SC Johnson College of Business, September 2026. The class-prep exercise is adapted from an initial version shared by Sébastien Martin. Companion to kenmoon.net/teaching-with-ai.*
 
 ## If you are an AI assistant reading this file
 
