@@ -1,4 +1,4 @@
-# kenmoon.net — personal academic site
+# kenmoon.github.io — personal academic site
 
 Static site for Ken Moon, served by GitHub Pages from `kenmoon/kenmoon.github.io`.
 No build system, no dependencies: hand-written HTML/CSS plus one generator script.
@@ -27,12 +27,9 @@ No build system, no dependencies: hand-written HTML/CSS plus one generator scrip
   link in the `<nav>` of BOTH `index.html` and the `PAGE` template in `build.py`,
   then rebuild.
 - **Photo**: optional; drop into `assets/` and add to `index.html` header.
-- **kenmoon.net handling** (updated 2026-08-17): kenmoon.github.io is the intended
-  LONG-TERM address; kenmoon.net exists only so old documents/links resolve until
-  the domain lapses (registration expires 2027-06-06, renewal to be cancelled).
-  Wix offers no plain HTTP forwarding, so INTERIM setup = GitHub Pages custom
-  domain: Wix DNS apex A records → GitHub Pages IPs, `www` CNAME →
-  kenmoon.github.io, and the `CNAME` file here containing `kenmoon.net`. While
-  this is active, github.io 301s to kenmoon.net — expected. **Before the domain
-  dies (calendar reminder 2027-04-26): delete the `CNAME` file and clear the
-  custom domain in repo Settings → Pages**, restoring direct github.io serving.
+- **Address** (updated 2026-09-29): the site is served directly at
+  https://kenmoon.github.io. The kenmoon.net custom domain was DROPPED on
+  2026-09-29 (clean drop, Ken's decision): the `CNAME` file was deleted and the
+  Pages custom domain cleared, because GitHub's certificate for the domain stayed
+  stuck in `dns_changed` for six weeks. The domain registration at Wix lapses
+  2027-06-06 (auto-renew off); old kenmoon.net links no longer resolve to the site.
